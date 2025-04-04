@@ -1,0 +1,1 @@
+ALTER TABLE chat.messages ADD COLUMN receiver VARCHAR(255);

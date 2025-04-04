@@ -1,0 +1,5 @@
+INSERT INTO chat.role(ID,NAME)
+VALUES(1,'ADMIN');
+
+INSERT INTO chat.role(ID,NAME)
+VALUES(2,'USER');

@@ -1,0 +1,1 @@
+ALTER TABLE chat.users DROP COLUMN email;
